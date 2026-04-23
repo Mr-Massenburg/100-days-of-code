@@ -1,6 +1,6 @@
 # Day 6 - Reeborg's World (Escape the Maze)
 # This code only runs in the Reeborg's World browser simulator:
-# https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Fworlds_en.json&world=Alone
+# https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
 
 def turn_right():
     turn_left()

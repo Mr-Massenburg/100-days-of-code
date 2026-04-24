@@ -1,4 +1,4 @@
-# Day 8 | Caesar Cypher - Function Parameters
+# Day 8 | Caesar Cipher - Function Parameters
 
 from art import logo
 

@@ -1,4 +1,4 @@
-
+# Day 7 | Hangman Game - Review of past concepts
 
 import random
 from hangman_art import logo, stages

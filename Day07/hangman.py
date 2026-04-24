@@ -9,7 +9,7 @@ lives = 6
 print(logo)
 
 chosen_word = random.choice(word_list)
-# print(chosen_word) Line was included only for testing the application while writing code
+# print(chosen_word) #Line was included only for testing the application while writing code
 
 placeholder = ""
 word_length = len(chosen_word)

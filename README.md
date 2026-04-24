@@ -8,5 +8,5 @@ Day 3 – April 21: Created a text-based adventure game
 Day 4 – April 21: Built a Rock Paper Scissors game
 Day 5 - April 22: Created Password Generator 
 Day 6 - April 22: Completed Reeborg's World (Hurdles + Escape the Maze) in browser simulator
-Day 7 - April 23: 
-Day 8 - April 23:
+Day 7 - April 23: Made Hangman Game
+Day 8 - April 23: Created Caesar Cipher encryption/decryption tool

@@ -15,7 +15,7 @@ def caesar(original_text, shift_amount, encode_or_decode):
         else:
             if encode_or_decode == "encode":
                 shifted_position = alphabet.index(letter) + shift_amount
-                if shifted_position > 0:
+                if shifted_position >= len(alphabet):
                     shifted_position -= 26
             elif encode_or_decode == "decode":
                 shifted_position = alphabet.index(letter) - shift_amount

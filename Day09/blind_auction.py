@@ -23,7 +23,8 @@ while auction_is_open:
     more_bids = input("Are there any other bidders? Type 'yes' or 'no'.\n").lower()
 
     if more_bids == "yes":
-        system("clear")
+        system("clear")    # macOS / Linux
+        system("cls")      # Windows
         continue
     else:
         auction_is_open = False

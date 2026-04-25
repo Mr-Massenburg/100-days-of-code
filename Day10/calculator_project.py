@@ -25,9 +25,9 @@ math_functions = {
     '*': multiply,
     '/': divide,
 }
-fresh_calc = True
+calc_running = True
 
-while fresh_calc:
+while calc_running:
     print(logo)
 
     keep_result = True
@@ -47,11 +47,11 @@ while fresh_calc:
 
         print(f"{num1} {operation} {num2} = {result}")
 
-        another_calc = input(f"Type 'y' to continue calculation with {result}, or type 'n' to start a new calculation: ")
+        another_calc = input(f"Type 'y' to continue calculation with {result}, or type 'n' to start a new calculation: ").lower()
 
         if another_calc == 'y':
             num1 = result
         else:
             keep_result = False
             system("clear")  # macOS / Linux
-            # system("cls")  # Windows | I use macOS so I have commented this clear out
+            # system("cls")  # Windows | I use macOS, so I have commented this out

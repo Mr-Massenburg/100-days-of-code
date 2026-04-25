@@ -24,7 +24,7 @@ while auction_is_open:
 
     if more_bids == "yes":
         system("clear")    # macOS / Linux
-        system("cls")      # Windows
+        # system("cls")    # Windows | I use macOS, so I have commented this out
         continue
     else:
         auction_is_open = False

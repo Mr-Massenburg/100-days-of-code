@@ -14,3 +14,4 @@ Day 9 – April 24: Made Blind Auction program
 Day 10 - April 24: Built Basic Calculator program
 Day 11 - April 27: Built a Blackjack game (Capstone Project)
 Day 12 - April 28: Built Number Guessing Game
+Day 13 - April 28: Debugging practice and using the debugger

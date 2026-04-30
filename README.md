@@ -15,3 +15,5 @@ Day 10 - April 24: Built Basic Calculator program
 Day 11 - April 27: Built a Blackjack game (Capstone Project)
 Day 12 - April 28: Built Number Guessing Game
 Day 13 - April 28: Debugging exercises. I practiced identifying and fixing bugs using print statements, the debugger, and problem-solving
+Day 14 - April 29: Built Higher/Lower Game (compare follower count between two random accounts)
+Day 15 - April 29: Built the Coffee Machine program. Taking orders, checking resources, payment processing, and drink-making logic

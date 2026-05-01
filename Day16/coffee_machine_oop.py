@@ -1,4 +1,4 @@
-#Day 16 | Coffee Machine with OOP
+#Day 16 | Coffee Machine with OOP. Introduction to Classes
 
 from menu import Menu
 from coffee_maker import CoffeeMaker

@@ -1,3 +1,4 @@
+#Code provided by the course to get used to calling and using classes
 class MoneyMachine:
 
     CURRENCY = "$"

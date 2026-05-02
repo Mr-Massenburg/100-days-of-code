@@ -18,3 +18,4 @@ Day 13 - April 28: Debugging exercises. I practiced identifying and fixing bugs 
 Day 14 - April 29: Built Higher/Lower Game (compare follower count between two random accounts)
 Day 15 - April 29: Built the Coffee Machine program. Taking orders, checking resources, payment processing, and drink-making logic
 Day 16 - April 30: Recreated the Coffee Machine program, but using OOP and classes
+Day 17 - May 1: Built quiz game using custom classes. Setting up code so question set is easily swappable.

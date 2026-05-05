@@ -32,3 +32,15 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 <p align="center">
   <img width="500" alt="Spirograph" src="https://github.com/user-attachments/assets/51b8da3a-6c74-4ea6-957d-1d997799ca8d" />
 </p>
+
+- **Day 19** - May 4: Built Basic Sketch program using turtle graphics and accepting keyboard control inputs
+- **Day 19** - May 4: Built Turtle racing simulation. Used Event listeners and multiple turtle object instances
+<p align="center">
+  <img width="496" height="426" alt="User prompt" src="https://github.com/user-attachments/assets/a7a7dfc0-4c60-46c9-beae-346f86b9f9df" />
+</p>
+
+<p align="center">
+  <img width="496" height="426" alt="Finished Race" src="https://github.com/user-attachments/assets/bf7cccf4-44b1-4376-afc8-50926acdd7e4" />
+</p>
+
+

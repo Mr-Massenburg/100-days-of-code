@@ -54,4 +54,8 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
   <img width="599" height="627" alt="Screenshot 2026-05-07 at 2 57 26 AM" src="https://github.com/user-attachments/assets/8d1d34ec-af42-454c-bbf1-28dafd28d523" />
 </p>
 
+- **Day 22** - May 11: Created a two-player Pong game using Tuttle Graphics
+<p align="center">
+  <img width="599" height="427" alt="Screenshot 2026-05-12 at 4 48 07 AM" src="https://github.com/user-attachments/assets/42287f8d-e915-4968-b235-8c89f53207ab" />
+</p>
 

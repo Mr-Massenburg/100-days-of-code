@@ -59,3 +59,10 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
   <img width="599" height="427" alt="Screenshot 2026-05-12 at 4 48 07 AM" src="https://github.com/user-attachments/assets/42287f8d-e915-4968-b235-8c89f53207ab" />
 </p>
 
+- **Day 23** - May 15: Built the Turtle Crossing Game (Capstone) – player movement, car spawning/movement, collision detection, and level progression
+<p align="center">
+  <img width="597" height="628" alt="Screenshot 2026-05-18 at 2 45 52 PM" src="https://github.com/user-attachments/assets/16c1d7f6-35fc-4663-a413-9d37ed9ba77f" />
+</p>
+<p align="center">
+  <img width="597" height="628" alt="Screenshot 2026-05-18 at 2 45 34 PM" src="https://github.com/user-attachments/assets/91c53985-ff10-4b14-a0cd-2f9a3fbb229a" />
+</p>

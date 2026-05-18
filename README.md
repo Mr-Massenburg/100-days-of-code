@@ -66,4 +66,5 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 <p align="center">
   <img width="597" height="628" alt="Screenshot 2026-05-18 at 2 45 34 PM" src="https://github.com/user-attachments/assets/91c53985-ff10-4b14-a0cd-2f9a3fbb229a" />
 </p>
+
 - **Day 24** - May 18: Built a Mail Merge program – reads names from a file, uses a letter template, and generates personalized letters saved to an Output folder

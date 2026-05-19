@@ -68,3 +68,7 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 </p>
 
 - **Day 24** - May 18: Built a Mail Merge program – reads names from a file, uses a letter template, and generates personalized letters saved to an Output folder
+- **Day 25** - May 19: Built the U.S. States Game – interactive map guessing game using turtle graphics and pandas, with score tracking and missed states CSV export
+<p align="center">
+  <img width="565" height="422" alt="Screenshot 2026-05-19 at 5 03 27 PM" src="https://github.com/user-attachments/assets/d2952e48-4a73-4e73-8771-743bc8e28f73" />
+</p>

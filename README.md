@@ -72,3 +72,4 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 <p align="center">
   <img width="765" height="622" alt="Screenshot 2026-05-19 at 5 03 27 PM" src="https://github.com/user-attachments/assets/d2952e48-4a73-4e73-8771-743bc8e28f73" />
 </p>
+- **Day 26** - May 20: Built the NATO Phonetic Alphabet converter using pandas and dictionary/list comprehensions

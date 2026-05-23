@@ -74,3 +74,8 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 </p>
 
 - **Day 26** - May 20: Built the NATO Phonetic Alphabet converter using pandas and dictionary/list comprehensions
+- **Day 27** - May 22: Built Miles to Km convert application using Tkinter GUI tools
+<p align="center">
+  <img width="248" height="147" alt="Screenshot 2026-05-23 at 2 42 20 AM" src="https://github.com/user-attachments/assets/dc115ef6-4815-48e2-995f-0e85588c7fcd" />
+</p>
+

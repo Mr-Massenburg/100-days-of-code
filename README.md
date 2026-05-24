@@ -79,3 +79,7 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
   <img width="248" height="147" alt="Screenshot 2026-05-23 at 2 42 20 AM" src="https://github.com/user-attachments/assets/dc115ef6-4815-48e2-995f-0e85588c7fcd" />
 </p>
 
+- **Day 28** - May 23: Built a Pomodoro Timer desktop app using Tkinter. Used Canvas function to add images to Tkinter.
+<p align="center">
+  <img width="540" height="462" alt="Screenshot 2026-05-24 at 3 33 44 AM" src="https://github.com/user-attachments/assets/71732bf2-fd1a-4a37-a4e5-5921ade1a297" />
+</p>

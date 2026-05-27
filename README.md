@@ -83,3 +83,14 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 <p align="center">
   <img width="540" height="462" alt="Screenshot 2026-05-24 at 3 33 44 AM" src="https://github.com/user-attachments/assets/71732bf2-fd1a-4a37-a4e5-5921ade1a297" />
 </p>
+
+- **Day 29** - May 26: Built a Password Manager desktop app using Tkinter. Generates a password, saves to file, clipboard copy, and confirmation dialogs
+<p align="center">
+  <img width="547" height="445" alt="Screenshot 2026-05-27 at 2 40 02 AM" src="https://github.com/user-attachments/assets/e70890de-eef2-4b36-86ce-7e0d911b71a2" />
+</p>
+<p align="center">
+  <img width="547" height="445" alt="Screenshot 2026-05-27 at 2 40 23 AM" src="https://github.com/user-attachments/assets/23da5675-a412-47ac-862e-4cbee33119ac" />
+</p>
+<p align="center">
+  <img width="547" height="445" alt="Screenshot 2026-05-27 at 2 40 42 AM" src="https://github.com/user-attachments/assets/10427b6a-60cd-47b4-9c0c-43f9c334ac1f" />
+</p>

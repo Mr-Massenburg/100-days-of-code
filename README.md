@@ -94,3 +94,11 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 <p align="center">
   <img width="547" height="445" alt="Screenshot 2026-05-27 at 2 40 42 AM" src="https://github.com/user-attachments/assets/10427b6a-60cd-47b4-9c0c-43f9c334ac1f" />
 </p>
+
+- **Day 30** - May 27: Enhanced the Password Manager with search functionality, JSON file handling, and error handling with try/except/else/finally
+<p align="center">
+  <img width="547" height="445" alt="Screenshot 2026-05-28 at 3 21 52 AM" src="https://github.com/user-attachments/assets/33a2bc62-8609-4ddb-8644-484ca4e2b06c" />
+  <img width="547" height="445" alt="Screenshot 2026-05-28 at 3 22 04 AM" src="https://github.com/user-attachments/assets/d7690af2-d973-4f5b-a6d1-f77bdce801c8" />
+  <img width="547" height="445" alt="Screenshot 2026-05-28 at 3 22 29 AM" src="https://github.com/user-attachments/assets/7473d848-3722-4bb3-86ce-61259f5014f6" />
+  <img width="547" height="445" alt="Screenshot 2026-05-28 at 3 22 46 AM" src="https://github.com/user-attachments/assets/e450f87c-75a3-41fa-b2d9-a610509972ad" />
+</p>

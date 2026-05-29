@@ -37,9 +37,6 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 - **Day 19** - May 4: Built Turtle racing simulation. Used Event listeners and multiple turtle object instances
 <p align="center">
   <img width="496" height="426" alt="User prompt" src="https://github.com/user-attachments/assets/a7a7dfc0-4c60-46c9-beae-346f86b9f9df" />
-</p>
-
-<p align="center">
   <img width="496" height="426" alt="Finished Race" src="https://github.com/user-attachments/assets/bf7cccf4-44b1-4376-afc8-50926acdd7e4" />
 </p>
 
@@ -47,11 +44,8 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 - **Day 21** - May 6: Finished the snake program. Added Collision detection for the snake, food, and the snake's tail. Created scoreboard element
 
 <p align="center">
-  <img width="599" height="627" alt="Screenshot 2026-05-07 at 2 58 22 AM" src="https://github.com/user-attachments/assets/61895870-dff8-4bc2-af0d-745810369139" />
-</p>
-
-<p align="center">
-  <img width="599" height="627" alt="Screenshot 2026-05-07 at 2 57 26 AM" src="https://github.com/user-attachments/assets/8d1d34ec-af42-454c-bbf1-28dafd28d523" />
+  <img width="500" alt="Screenshot 2026-05-07 at 2 58 22 AM" src="https://github.com/user-attachments/assets/61895870-dff8-4bc2-af0d-745810369139" />
+  <img width="500" alt="Screenshot 2026-05-07 at 2 57 26 AM" src="https://github.com/user-attachments/assets/8d1d34ec-af42-454c-bbf1-28dafd28d523" />
 </p>
 
 - **Day 22** - May 11: Created a two-player Pong game using Tuttle Graphics
@@ -61,10 +55,8 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 
 - **Day 23** - May 15: Built the Turtle Crossing Game (Capstone) – player movement, car spawning/movement, collision detection, and level progression
 <p align="center">
-  <img width="597" height="628" alt="Screenshot 2026-05-18 at 2 45 52 PM" src="https://github.com/user-attachments/assets/16c1d7f6-35fc-4663-a413-9d37ed9ba77f" />
-</p>
-<p align="center">
-  <img width="597" height="628" alt="Screenshot 2026-05-18 at 2 45 34 PM" src="https://github.com/user-attachments/assets/91c53985-ff10-4b14-a0cd-2f9a3fbb229a" />
+  <img width="500" alt="Screenshot 2026-05-18 at 2 45 52 PM" src="https://github.com/user-attachments/assets/16c1d7f6-35fc-4663-a413-9d37ed9ba77f" />
+  <img width="500" alt="Screenshot 2026-05-18 at 2 45 34 PM" src="https://github.com/user-attachments/assets/91c53985-ff10-4b14-a0cd-2f9a3fbb229a" />
 </p>
 
 - **Day 24** - May 18: Built a Mail Merge program – reads names from a file, uses a letter template, and generates personalized letters saved to an Output folder
@@ -101,4 +93,10 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
   <img width="547" height="445" alt="Screenshot 2026-05-28 at 3 22 04 AM" src="https://github.com/user-attachments/assets/d7690af2-d973-4f5b-a6d1-f77bdce801c8" />
   <img width="547" height="445" alt="Screenshot 2026-05-28 at 3 22 29 AM" src="https://github.com/user-attachments/assets/7473d848-3722-4bb3-86ce-61259f5014f6" />
   <img width="547" height="445" alt="Screenshot 2026-05-28 at 3 22 46 AM" src="https://github.com/user-attachments/assets/e450f87c-75a3-41fa-b2d9-a610509972ad" />
+</p>
+
+- **Day 31** - May 28: Built a Flash Card language learning app using Tkinter (Capstone Project) – features timed card flipping, progress tracking, and saving progress with CSV files
+<p align="center">
+  <img width="500" alt="Screenshot 2026-05-29 at 1 57 20 AM" src="https://github.com/user-attachments/assets/59fda98a-57ad-40da-84a8-304e735da454" />
+  <img width="500" alt="Screenshot 2026-05-29 at 1 57 34 AM" src="https://github.com/user-attachments/assets/b8242853-3ab9-4167-a501-be6e3558db74" />
 </p>

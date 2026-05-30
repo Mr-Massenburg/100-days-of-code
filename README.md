@@ -100,3 +100,7 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
   <img width="500" alt="Screenshot 2026-05-29 at 1 57 20 AM" src="https://github.com/user-attachments/assets/59fda98a-57ad-40da-84a8-304e735da454" />
   <img width="500" alt="Screenshot 2026-05-29 at 1 57 34 AM" src="https://github.com/user-attachments/assets/b8242853-3ab9-4167-a501-be6e3558db74" />
 </p>
+
+- **Day 32** - May 29: Built a program to send emails to people on their birthdays automatically - learning SMTP and datetime functions
+- **Day 33** - May 30: Built a program that will automatically send you an email if the ISS is above you and it's dark out – using API calls to pull data
+  

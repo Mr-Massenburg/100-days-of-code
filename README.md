@@ -103,4 +103,11 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 
 - **Day 32** - May 29: Built a program to send emails to people on their birthdays automatically - learning SMTP and datetime functions
 - **Day 33** - May 30: Built a program that will automatically send you an email if the ISS is above you and it's dark out – using API calls to pull data
-  
+- **Day 34** - May 31: Built the Quizzler Trivia App using Tkinter - Used API for data, visual feedback, score tracking, and end-of-quiz summary
+<p align="center">
+  <img width="345" height="550" alt="Screenshot 2026-06-01 at 2 12 26 AM" src="https://github.com/user-attachments/assets/3ea385a7-374d-4040-9202-db799fb5a384" />
+  <img width="345" height="550" alt="Screenshot 2026-06-01 at 2 15 05 AM" src="https://github.com/user-attachments/assets/5356087c-abf1-40fa-af68-86b257edf44d" />
+  <img width="345" height="550" alt="Screenshot 2026-06-01 at 2 15 11 AM" src="https://github.com/user-attachments/assets/e5245961-34d3-4724-8d75-3bdfe7ade821" />
+  <img width="345" height="550" alt="Screenshot 2026-06-01 at 2 15 24 AM" src="https://github.com/user-attachments/assets/5a0ee50b-b635-4baf-8640-dc9e528a4ba1" />
+</p>
+

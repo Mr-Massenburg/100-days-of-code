@@ -111,3 +111,4 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
   <img width="345" height="550" alt="Screenshot 2026-06-01 at 2 15 24 AM" src="https://github.com/user-attachments/assets/5a0ee50b-b635-4baf-8640-dc9e528a4ba1" />
 </p>
 
+- **Day 35** - June 1: Built a Rain Alert program – checks OpenWeatherMap API for forecast and sends SMS via Twilio if rain is expected. Both APIs require authentication

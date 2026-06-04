@@ -112,3 +112,4 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 </p>
 
 - **Day 35** - June 1: Built a Rain Alert program – checks OpenWeatherMap API for forecast and sends SMS via Twilio if rain is expected. Both APIs require authentication
+- **Day 36** - June 3: Built a Stock News Alert – monitors stock price change using Alpha Vantage API and sends formatted news alerts via Twilio if price has more than a 5% change

@@ -113,3 +113,7 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 
 - **Day 35** - June 1: Built a Rain Alert program – checks OpenWeatherMap API for forecast and sends SMS via Twilio if rain is expected. Both APIs require authentication
 - **Day 36** - June 3: Built a Stock News Alert – monitors stock price change using Alpha Vantage API and sends formatted news alerts via Twilio if price has more than a 5% change
+- **Day 37** - June 4: API Practice with Pixela – performed GET, POST, PUT, and DELETE requests to create a user, graph, post/update/delete pixels
+<p align="center">
+  <img width="1118" height="377" alt="Screenshot 2026-06-05 at 3 08 49 AM" src="https://github.com/user-attachments/assets/a00e45e7-d78f-4890-b7a2-2d805dd1d541" />
+</p>

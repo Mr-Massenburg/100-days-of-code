@@ -11,8 +11,8 @@ pixela_endpoint = "https://pixe.la/v1/users"
 # Create a new user (POST request)
 
 user_params = {
-    "token": "asdf;lkjIJasdflkSAD",
-    "username": "mrmassenburg",
+    "token": token,
+    "username": username,
     "agreeTermsOfService": "yes",
     "notMinor": "yes"
 }

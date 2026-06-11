@@ -117,3 +117,8 @@ Started April 20, 2026 | Building Python skills for remote Cybersecurity Analyst
 <p align="center">
   <img width="1118" height="377" alt="Screenshot 2026-06-05 at 3 08 49 AM" src="https://github.com/user-attachments/assets/a00e45e7-d78f-4890-b7a2-2d805dd1d541" />
 </p>
+
+- **Day 38** - June 8: Challenge Project - Workout tracking application. Takes plan text input from the user and uses the API to understand what workout was done and updates the stats of the workout into a Google Sheet using Sheety API
+<p align="center">
+  <img width="550" height="421" alt="Screenshot 2026-06-11 at 1 51 10 AM" src="https://github.com/user-attachments/assets/7529da33-7875-4a00-b5ac-8bf0f6460ea4" />
+</p>
